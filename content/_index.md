@@ -27,9 +27,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-         I'm a research scientist at the CITIC Research Centre at University of Granada. I am currently finishing my PhD on K-B Recommendation systems and nutrition. I am looking for Postdocs opportunities around ecology, biodiversity and climate change. 
-
-        **Specialties:** Data analysis, Machine learning, Natural Language Processing, Knowledge Systems
+         Research scientist at the CITIC Research Centre at University of Granada. I am currently finishing my PhD on K-B Recommendation systems and nutrition. I am looking for Postdocs opportunities around ecology, biodiversity and climate change. **Specialties:** Data analysis, Machine learning, Natural Language Processing, Knowledge Systems
     design:
       columns: '1'
   - block: collection
