@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Bartolome Ortiz-Viso
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research associate on Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Granada / CITIC Research Centre
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Knowledge-based Recommendations, NLP and Biodiversity.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -26,18 +26,18 @@ social:
   link: '/contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/bortizmath
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=VAcczzsAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/thebooort
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/CV_Bartolome Ortiz.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

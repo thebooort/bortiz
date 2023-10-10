@@ -16,7 +16,7 @@ sections:
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: portada.jpg
           filters:
             brightness: 0.5
           size: cover
@@ -27,9 +27,9 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+         I'm a research scientist at the CITIC Research Centre at University of Granada. I am currently finishing my PhD on K-B Recommendation systems and nutrition. I am looking for Postdocs opportunities around ecology, biodiversity and climate change. 
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        **Specialties:** Data analysis, Machine learning, Natural Language Processing, Knowledge Systems
     design:
       columns: '1'
   - block: collection
