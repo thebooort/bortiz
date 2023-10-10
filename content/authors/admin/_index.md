@@ -37,7 +37,7 @@ social:
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/CV_Bartolome Ortiz.pdf
+  link: uploads/CV_BartolomeOrtiz.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
