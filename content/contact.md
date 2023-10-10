@@ -1,7 +1,7 @@
 ---
 title: Contact
 type: landing
-date: 2022-10-25
+date: 2023-09-09
 
 sections:
   - block: contact
@@ -9,19 +9,13 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Here you can find my main contact channels. If you send an email, please be descriptive and identify yourself. If you want me to respond, make sure your email is correct.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: bortiz@ugr.es
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: CITIC Centre for Information and Communications Technology Research, University of Granada
+        city: Granada
+        country: Spain
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
@@ -29,15 +23,23 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
+          link: 'https://twitter.com/bortizmath'
+        - icon: github
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
+          name: Github
+          link: 'https://github.com/thebooort'
+        - icon: spotify
           icon_pack: fas
-          name: Zoom Me
+          name: Podcast
           link: 'https://zoom.com'
+        - icon: linkedin
+          icon_pack: fab
+          name: LinkedIn
+          link: 'https://www.linkedin.com/in/bartolome-ortiz-viso/'
+        - icon: instagram
+          icon_pack: fab
+          name: Instagram
+          link: 'https://www.instagram.com/bortizphoto/'
 
       # Automatically link email and phone or display as text?
       autolink: true
@@ -49,7 +51,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: True
         
     design:
       columns: '1'
