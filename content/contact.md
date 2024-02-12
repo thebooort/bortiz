@@ -17,8 +17,7 @@ sections:
         city: Granada
         country: Spain
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday to Friday 9:00 to 13:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
@@ -31,7 +30,7 @@ sections:
         - icon: spotify
           icon_pack: fas
           name: Podcast
-          link: 'https://zoom.com'
+          link: 'https://www.spreaker.com/podcast/the-fluxions--3347492'
         - icon: linkedin
           icon_pack: fab
           name: LinkedIn
