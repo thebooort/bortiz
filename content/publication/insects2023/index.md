@@ -32,4 +32,4 @@ publication_stage: "Final"
 
 source: "Scopus"
 
-note: "Cited by: 0"
+---
