@@ -42,7 +42,7 @@ number: "12"
 
 publication: In *Nutrients*
 
-publishDate: "2017-01-01"
+publishDate: "2021-01-01"
 
 summary: |
   The Stance4Health FCDB is described in this study, which aims to develop a complete personalized nutrition service. The database, composed of 880 elements, including nutrients and bioactive compounds, is one of the most complete in terms of harmonized foods. It will be integrated into a smartphone app developed within the Stance4Health European project for personalized nutrition interventions.
