@@ -12,6 +12,14 @@ doi: "10.1007/978-3-031-42935-4_10"
 image:
   caption: ''
 
+title: "Let It BEE: Natural Language Classification of Arthropod Specimens Based on Their Spanish Description"
+
+
+
+volume: 14113 LNAI,
+pages: 118 – 128,
+
+
 links:
   - name: Scopus Link
     url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172158530&doi=10.1007%2f978-3-031-42935-4_10&partnerID=40&md5=1802b86f46ff65630067e3b6c0983658
