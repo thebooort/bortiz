@@ -14,6 +14,15 @@ doi: "10.1109/ACCESS.2023.3290918"
 image:
   caption: ''
 
+
+title: Evolutionary Approach for Building, Exploring and Recommending Complex Items With Application in Nutritional Interventions
+
+journal: "IEEE Access"
+
+volume: 11
+
+pages: 65891 – 65905
+
 links:
   - name: Scopus Link
     url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163559371&doi=10.1109%2fACCESS.2023.3290918&partnerID=40&md5=1a4925bcc594895e3a36838a3dee7392
