@@ -8,7 +8,7 @@ tags:
 date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://ww.stance4health.com
 
 image:
   caption: logo of the project
