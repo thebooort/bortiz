@@ -38,7 +38,7 @@ tags:
   - Question Generation
   - Recommender systems
 
-title: “Health Is the Real Wealth”: Unsupervised Approach to Improve Explainability in Health-Based Recommendation Systems
+title: '"Health Is the Real Wealth": Unsupervised Approach to Improve Explainability in Health-Based Recommendation Systems'
 
 url_code: '#'
 url_dataset: '#'
