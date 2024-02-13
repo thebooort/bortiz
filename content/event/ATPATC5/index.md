@@ -1,5 +1,5 @@
 ---
-abstract: Talk in the national science dissemination event "Desgranando Ciencia" in Granada, Spain. The talk was about my research on recommendation systems, their advantages and limitations.
+abstract: Science performance in our local science dissemination event "ATPATC" in Granada, Spain. It was the fifth edition of the event and we perform a small theatre play and a science song. 
 address:
   city: Granada
   country: Spain
@@ -8,8 +8,8 @@ address:
   street: ""
 all_day: false
 authors: []
-date: "2023-04-01T13:00:00Z"
-date_end: "2023-04-01T15:00:00Z"
+date: "2023-10-01T13:00:00Z"
+date_end: "2023-10-01T15:00:00Z"
 event: Desgranando Ciencia 9
 event_url: https://example.org
 featured: false
@@ -18,7 +18,7 @@ image:
   focal_point: Right
 location: Granada
 math: true
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2023-10-01T00:00:00Z"
 slides: example
 summary: Talk in the national science dissemination event "Desgranando Ciencia" in Granada, Spain. The talk was about my research on recommendation systems, their advantages and limitations.
 tags: []
