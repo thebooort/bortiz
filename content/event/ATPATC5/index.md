@@ -22,7 +22,7 @@ publishDate: "2023-10-01T00:00:00Z"
 slides: example
 summary: Talk in the national science dissemination event "Desgranando Ciencia" in Granada, Spain. The talk was about my research on recommendation systems, their advantages and limitations.
 tags: []
-title: Example Talk
+title: ATPATC vol. 5
 url_code: ""
 url_pdf: ""
 url_slides: ""

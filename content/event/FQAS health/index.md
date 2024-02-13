@@ -22,7 +22,7 @@ publishDate: "2023-01-01T00:00:00Z"
 slides: example
 summary: "Presentation of our paper: 'Health Is the Real Wealth: Unsupervised Approach to Improve Explainability in Health-Based Recommendation Systems ' in the 17th International Conference on Flexible Query Answering Systems (FQAS 2023) in Mallorca, Spain. "
 tags: []
-title: Conference talk
+title: FQAS 2023 - Paper Presentation - Social Sciences Track
 url_code: ""
 url_pdf: ""
 url_slides: ""

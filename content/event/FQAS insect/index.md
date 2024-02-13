@@ -22,7 +22,7 @@ publishDate: "2023-01-01T00:00:00Z"
 slides: example
 summary: "Presentation of our paper: 'Let it bee: Textual classification of arthropod descriptions in spanish ' in the 17th International Conference on Flexible Query Answering Systems (FQAS 2023) in Mallorca, Spain."
 tags: []
-title: Example Talk
+title:  Paper Presentation - FQAS 2023 - NLP Track
 url_code: ""
 url_pdf: ""
 url_slides: ""
