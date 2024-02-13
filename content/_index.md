@@ -29,11 +29,19 @@ sections:
       text: |-
          Research scientist at the CITIC Research Centre at University of Granada. I am currently finishing my PhD on K-B Recommendation systems and nutrition.
 
-         **I am looking for Postdocs opportunities around ecology, biodiversity and climate change.**
+         🆕🆕**Currently looking for Postdocs opportunities around ecology, biodiversity and climate change.**🆕🆕
 
-         Open to collaborate on research projects!
+         **Also, open to collaborate on interesting research projects!**
 
          **Main areas:** Data analysis, Machine learning,  Knowledge-based Systems, Natural Language Processing.
+        
+        "Brief Bio: Applied mathematician and machine learning researcher. Pro‑efficiency in scientific communication. I have experience
+working in interdisciplinary groups obtaining, cleaning, analyzing and predicting data. I build tools based on ML/DL algorithms. I have participated in two european H2020 projects and several international conferences. 
+I’m looking for interdisciplinary challenges where my skills could help in the development of new technologies to tackle social
+and environmental issues. "
+
+
+
     design:
       columns: '1'
   - block: collection
